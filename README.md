@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I love with black but i hate it**
 
+- ⚡ Disclaimer **You can fork or modify my repository but please follow me hahaha!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sendyjoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sendyjoan" height="30" width="40" /></a>
