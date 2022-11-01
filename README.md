@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Laravel, PHP, and Java**
 
+- 💬 Saweria **https://saweria.co/sendyjoan**
+
 - 📫 How to reach me **sendyjoan5@gmail.com**
 
 - ⚡ Fun fact **I love with black but i hate it**
