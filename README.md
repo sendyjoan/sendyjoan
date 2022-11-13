@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sendyjoan5@gmail.com**
 
-- ⚡ Fun fact **I love with black but i hate it**
+- ⚡ Fun fact **I love with black but i hate it!**
 
 - ⚡ Disclaimer **You can fork or modify my repository but please follow me hahaha!**
 
