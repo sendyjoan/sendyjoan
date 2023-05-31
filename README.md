@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sendy Joan</h1>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h3 align="center">IT Digital Business Intern at AUTOPEDIA | Laravel Enthusiast | Flutter Mobile Application | Back-end Developer | Undergraduate student at State Polytechnic of Malang</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyjoan&label=Profile%20views&color=0e75b6&style=flat" alt="sendyjoan" /> </p>
