@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sendy Joan</h1>
 
-<h3 align="center">Information Technology SchoolTech Indonesia | Laravel Enthusiast | Flutter Mobile Application | Back-end Developer | Undergraduate student at State Polytechnic of Malang</h3>
+<h3 align="center">Information Technology of SchoolTech Indonesia | Product and Project Management Enthusiast | Information System Management Enthusiast | Web Developer and Network Administrator - BNSP Certified </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyjoan&label=Profile%20views&color=0e75b6&style=flat" alt="sendyjoan" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Kotlin, Cloud Computing, and Django**
+- 🌱 I’m currently learning **Golang, NodeJs, Cloud Computing, and CI/CD**
 
-- 💬 Ask me about **Laravel, PHP, and Java**
+- 💬 Ask me about **Laravel, PHP, Java, N8N Automation, VueJS**
 
 - 💬 Saweria **https://saweria.co/sendyjoan**
 
