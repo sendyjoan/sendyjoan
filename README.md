@@ -2,12 +2,6 @@
 
 <h3 align="center">Information Technology of SchoolTech Indonesia | Product and Project Management Enthusiast | Information System Management Enthusiast | Web Developer and Network Administrator - BNSP Certified </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyjoan&label=Profile%20views&color=0e75b6&style=flat" alt="sendyjoan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sendyjoan" alt="sendyjoan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Golang, NodeJs, Cloud Computing, and CI/CD**
 
 - 💬 Ask me about **Laravel, PHP, Java, N8N Automation, VueJS**
@@ -19,6 +13,12 @@
 - ⚡ Fun fact **I love with black but i hate it!**
 
 - ⚡ Disclaimer **You can fork or modify my repository but please follow me hahaha!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyjoan&label=Profile%20views&color=0e75b6&style=flat" alt="sendyjoan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sendyjoan" alt="sendyjoan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
