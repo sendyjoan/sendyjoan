@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **I love with black but i hate it!**
 
-- ⚡ Disclaimer **You can fork or modify my repository but please follow me hahaha!**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyjoan&label=Profile%20views&color=0e75b6&style=flat" alt="sendyjoan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sendyjoan" alt="sendyjoan" /></a> </p>
