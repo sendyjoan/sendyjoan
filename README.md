@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sendy Joan</h1>
+<h1 align="center">Hi 👋, I'm Sendy Joan K</h1>
 
-<h3 align="center">Information Technology of SchoolTech Indonesia | Product and Project Management Enthusiast | Information System Management Enthusiast | Web Developer and Network Administrator - BNSP Certified </h3>
+<h3 align="center">Chief Everything Officer of SchoolTech Indonesia | ERP Developer at Dua Kelinci | Product and Project Management Enthusiast | Information System Management Enthusiast | Web Developer and Network Administrator - BNSP Certified </h3>
 
 - 🌱 I’m currently learning **Golang, NodeJs, Cloud Computing, and CI/CD**
 
